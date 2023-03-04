@@ -1,0 +1,16 @@
+C:\Users\Егор Панда\source\repos\1-4laba\2.4\bin\Debug\2.4.exe.config
+C:\Users\Егор Панда\source\repos\1-4laba\2.4\bin\Debug\2.4.exe
+C:\Users\Егор Панда\source\repos\1-4laba\2.4\bin\Debug\2.4.pdb
+C:\Users\Егор Панда\source\repos\1-4laba\2.4\obj\Debug\2.4.csproj.AssemblyReference.cache
+C:\Users\Егор Панда\source\repos\1-4laba\2.4\obj\Debug\2.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор Панда\source\repos\1-4laba\2.4\obj\Debug\2.4.csproj.CoreCompileInputs.cache
+C:\Users\Егор Панда\source\repos\1-4laba\2.4\obj\Debug\2.4.exe
+C:\Users\Егор Панда\source\repos\1-4laba\2.4\obj\Debug\2.4.pdb
+C:\Users\Егор Панда\Desktop\1-4laba\2.4\bin\Debug\2.4.exe.config
+C:\Users\Егор Панда\Desktop\1-4laba\2.4\bin\Debug\2.4.exe
+C:\Users\Егор Панда\Desktop\1-4laba\2.4\bin\Debug\2.4.pdb
+C:\Users\Егор Панда\Desktop\1-4laba\2.4\obj\Debug\2.4.csproj.AssemblyReference.cache
+C:\Users\Егор Панда\Desktop\1-4laba\2.4\obj\Debug\2.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор Панда\Desktop\1-4laba\2.4\obj\Debug\2.4.csproj.CoreCompileInputs.cache
+C:\Users\Егор Панда\Desktop\1-4laba\2.4\obj\Debug\2.4.exe
+C:\Users\Егор Панда\Desktop\1-4laba\2.4\obj\Debug\2.4.pdb

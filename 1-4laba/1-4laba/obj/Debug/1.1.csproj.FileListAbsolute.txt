@@ -1,0 +1,8 @@
+C:\Users\Егор Панда\source\repos\1-4laba\1-4laba\bin\Debug\1-4laba.exe.config
+C:\Users\Егор Панда\source\repos\1-4laba\1-4laba\bin\Debug\1-4laba.exe
+C:\Users\Егор Панда\source\repos\1-4laba\1-4laba\bin\Debug\1-4laba.pdb
+C:\Users\Егор Панда\source\repos\1-4laba\1-4laba\obj\Debug\1.1.csproj.AssemblyReference.cache
+C:\Users\Егор Панда\source\repos\1-4laba\1-4laba\obj\Debug\1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор Панда\source\repos\1-4laba\1-4laba\obj\Debug\1.1.csproj.CoreCompileInputs.cache
+C:\Users\Егор Панда\source\repos\1-4laba\1-4laba\obj\Debug\1-4laba.exe
+C:\Users\Егор Панда\source\repos\1-4laba\1-4laba\obj\Debug\1-4laba.pdb
